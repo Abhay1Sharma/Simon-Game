@@ -1,0 +1,57 @@
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2, h3, h4{
+    margin : 0.5rem;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+.square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.75rem;
+    user-select: none;
+}
+
+.div1 {
+    background-color: rgb(213, 62, 93);
+    border-radius: 2rem;
+}
+
+.div2 {
+    background-color: rgb(95, 158, 160);
+    border-radius: 2rem;
+}
+
+.div3 {
+    background-color: rgb(233, 152, 3);
+    border-radius: 2rem;
+}
+
+.div4 {
+    background-color: cornflowerblue;
+    border-radius: 2rem;
+}
+
+.flash {
+    background-color: white;
+}
+
+.lossFlash {
+    background-color: red;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    border: 10px solid black;
+    margin: 1rem;
+}
