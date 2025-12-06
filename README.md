@@ -62,4 +62,4 @@ The project is organized into the following files:
 
 ## 🧑‍💻 Author
 
-**Your Name** - [[GitHub Profile Link](https://github.com/Abhay1Sharma)]
+**Abhay Sharma** - [[GitHub Profile Link](https://github.com/Abhay1Sharma)]
